@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, World! 👋
 
 Myself Divya, a sophomore at IIT (BHU) Varanasi. I am a data enthusiast and am currently exploring probabilistic programming.
 
