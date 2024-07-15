@@ -1,8 +1,6 @@
 # Hello, World! 👋
 
-Myself Divya, a sophomore at IIT (BHU) Varanasi. I am a data enthusiast and am currently exploring probabilistic programming.
-
-I've previously worked as a SRISHTI'23 intern at the International Institute of Information Technology (IIIT) - Hyderabad, where I employed Time Series Analysis and Machine Learning to perform Microstate Analysis of Resting State EEG data.
+Myself Divya, a sophomore at IIT (BHU) Varanasi. I am a data enthusiast and am currently exploring the realms of Machine Learning, Deep Learning and Time Series Analysis.
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
